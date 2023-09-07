@@ -1,0 +1,1 @@
+mhrc.automation,mhrc.automation.utilities.file,lxml,openpyxl,multiprocessing,win32com.client,pyautogui,pandas,PyPDF2,numpy
